@@ -1,4 +1,4 @@
-# Apps
+# MyGitHub
 
 A repo containing a personal knowledge vault and a collection of AI-powered tools.
 
