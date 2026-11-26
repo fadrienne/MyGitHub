@@ -32,3 +32,7 @@ graphify-out/
 .env
 .env.*
 !.env.example
+reef-line-video/out/*.wav
+reef-line-video/out/video_silent.mp4
+reef-line-video/out/tmp/
+reef-line-video/out/preview/*.png

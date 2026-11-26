@@ -1,0 +1,20 @@
+frame 0/2880
+frame 240/2880
+frame 480/2880
+frame 720/2880
+frame 960/2880
+frame 1200/2880
+frame 1440/2880
+frame 1680/2880
+frame 1920/2880
+frame 2160/2880
+frame 2400/2880
+frame 2640/2880
+  guide scene1: 26.7s natural vs 24.9s window (60 words)
+  guide scene3: 10.2s natural vs 8.9s window (23 words)
+  guide scene4: 29.1s natural vs 24.9s window (61 words)
+  guide scene5: 9.9s natural vs 9.9s window (23 words)
+  guide scene6: 18.1s natural vs 17.9s window (44 words)
+  guide scene2a: 23.8s natural vs 20.9s window (52 words)
+  guide scene2b: 6.0s natural vs 5.9s window (13 words)
+done
